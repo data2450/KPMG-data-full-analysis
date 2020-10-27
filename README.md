@@ -22,3 +22,12 @@ find out the specfic group of coustmers,there gender,age group,company of the mo
 
 
 most saled produt,most profitable producte etc
+
+EDA is the first part 
+
+ the original dataset is given as new_raw_data_update_final
+
+the last part is in KPMG_dataset-part1
+
+2 other datasets are preprocessed dataset from the original
+
